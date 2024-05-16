@@ -1,0 +1,1 @@
+This folder contains examples of Java code from scratch.
