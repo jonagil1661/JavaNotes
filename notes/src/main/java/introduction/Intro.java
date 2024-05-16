@@ -1,13 +1,8 @@
 package introduction;
 
-/**
- * Hello world!
- *
- */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
+public class Intro {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+        System.out.print("This doesn't skip a line");
     }
 }
